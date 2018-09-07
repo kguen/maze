@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1523982761 source:d:\algorithm\projects\maze\main.cpp
+	<ctime>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	"maze.h"
+	"utils.h"
+
+1522505423 d:\algorithm\projects\maze\maze.h
+	<iostream>
+	<vector>
+
+1523554182 d:\algorithm\projects\maze\utils.h
+
+1523982733 source:d:\algorithm\projects\maze\maze.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+	<windows.h>
+	<chrono>
+	<thread>
+	"maze.h"
+	"utils.h"
+
+1523982720 source:d:\algorithm\projects\maze\utils.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	"utils.h"
+	"maze.h"
+
+1522505423 d:\algorithm\projects\maze\maze.hpp
+	<iostream>
+	<vector>
+
+1523554182 d:\algorithm\projects\maze\utils.hpp
+
